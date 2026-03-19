@@ -176,6 +176,7 @@ All files in this project meet the following requirements:
 ## 👨‍💼 Author
 
 Holberton School Student
+[David Roset](https://github.com/DevEchoFR)
 
 ## 📄 License
 

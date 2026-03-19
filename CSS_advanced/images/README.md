@@ -34,3 +34,8 @@ background-image: url("images/pic-work-01.jpg");
 - Keep original filenames to match project tasks and checker expectations.
 - Prefer meaningful `alt` text in HTML for accessibility.
 - Do not move these files unless you also update all HTML/CSS references.
+
+## Author
+
+- Holberton School Student
+[David Roset](https://github.com/DevEchoFR)

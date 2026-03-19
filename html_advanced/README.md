@@ -73,3 +73,4 @@ You can validate your HTML using the W3C Validator:
 ## Author
 
 - Holberton School Student
+[David Roset](https://github.com/DevEchoFR)

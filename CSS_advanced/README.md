@@ -343,6 +343,7 @@ After completing this project, you will have:
 ## 👨‍💼 Author
 
 Holberton School Student
+[David Roset](https://github.com/DevEchoFR)
 
 ## 📄 License
 

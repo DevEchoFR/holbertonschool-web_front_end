@@ -39,3 +39,8 @@ Across the sequence, the styles progressively introduce:
 - File names and order matter for project validation.
 - These files are intentionally cumulative and educational.
 - Some tasks mention that W3C validation is optional.
+
+## Author
+
+- Holberton School Student
+[David Roset](https://github.com/DevEchoFR)
