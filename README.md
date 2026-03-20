@@ -77,10 +77,10 @@ http://localhost:8000/html_advanced/index.html
 - HTML project details: [html_advanced/README.md](./html_advanced/README.md)
 - CSS project details: [CSS_advanced/README.md](./CSS_advanced/README.md)
 
-## Author
+## ✍️ Author
 
-- Holberton School student
-- David Roset: https://github.com/DevEchoFR
+Holberton School Student   
+[David Roset](https://github.com/DevEchoFR)
 
 ## License
 
